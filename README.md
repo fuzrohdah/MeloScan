@@ -1,6 +1,6 @@
 # OncoScanSkin (Previously MeloScan)
 
-**MeloScan** is a lightweight Streamlit app that uses a Convolutional Neural Network (CNN) to classify dermoscopic images of skin lesions as **benign** or **malignant** (melanoma). It supports real-time webcam prediction and image upload.
+**OncoScanSkin** is a lightweight Streamlit app that uses a Convolutional Neural Network (CNN) to classify dermoscopic images of skin lesions as **benign** or **malignant** (melanoma). It supports real-time webcam prediction and image upload.
 
 ---
 
